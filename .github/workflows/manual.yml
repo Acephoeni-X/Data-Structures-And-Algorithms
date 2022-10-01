@@ -1,9 +1,0 @@
-- name: Label PR on Merge Bot
-  # You may pin to the exact commit or the version.
-  # uses: abhijithvijayan/label-pr-on-merge-bot@17cf77b5f94d59af929eba643ae297061436c16d
-  uses: abhijithvijayan/label-pr-on-merge-bot@v2
-  with:
-    # Label for the PR after it is merged
-    merged_label: hacktoberfest-accepted
-    # Authorization Token for accessing GitHub
-    GITHUB_TOKEN: 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
